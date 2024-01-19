@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: #F6F6F6; 
+    height: 100vh;
+    box-sizing: border-box;
+    
+}
+
+.destaque {
+    color: aqua;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
